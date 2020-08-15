@@ -23,14 +23,16 @@ Each list is in one file:
 
 For example, line `11-27;Milan` means that on 27 November, name "Milan" celebrates the name day.
 
-Special file `-list.csv` contains list of all lists with description localized in the language of that particular country.
+Special file `-list.csv` contains list of all lists with description localized in the offical language of that particular country.
 
 ## Current lists
 
+- Croatia (croatia.csv)
 - Czech Republic (czechia.csv)
 - Hungary (hungary.csv)
 - Poland (poland.csv)
 - Slovakia (slovakia.csv)
+- Spain (spain.csv)
 
 All current lists are based on the data available on English Wikipedia.
 
